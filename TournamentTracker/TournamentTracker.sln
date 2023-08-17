@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackerLibrary", "TrackerLibrary\TrackerLibrary.csproj", "{D85DEE0E-B244-481C-8979-3FB97C358059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackerUI", "TrackerUI\TrackerUI.csproj", "{B0721F51-3351-4C64-97A9-22F0FE50D571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D85DEE0E-B244-481C-8979-3FB97C358059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85DEE0E-B244-481C-8979-3FB97C358059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85DEE0E-B244-481C-8979-3FB97C358059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85DEE0E-B244-481C-8979-3FB97C358059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0721F51-3351-4C64-97A9-22F0FE50D571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0721F51-3351-4C64-97A9-22F0FE50D571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0721F51-3351-4C64-97A9-22F0FE50D571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0721F51-3351-4C64-97A9-22F0FE50D571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5744B826-01EC-4CD4-8240-7CEB3BDA013F}
+	EndGlobalSection
+EndGlobal

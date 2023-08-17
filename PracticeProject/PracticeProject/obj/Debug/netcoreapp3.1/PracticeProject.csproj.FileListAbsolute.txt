@@ -1,0 +1,27 @@
+C:\Users\fiito\source\repos\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.exe
+C:\Users\fiito\source\repos\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.deps.json
+C:\Users\fiito\source\repos\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.runtimeconfig.json
+C:\Users\fiito\source\repos\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.runtimeconfig.dev.json
+C:\Users\fiito\source\repos\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.dll
+C:\Users\fiito\source\repos\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.pdb
+C:\Users\fiito\source\repos\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.AssemblyInfoInputs.cache
+C:\Users\fiito\source\repos\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.AssemblyInfo.cs
+C:\Users\fiito\source\repos\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.csproj.CoreCompileInputs.cache
+C:\Users\fiito\source\repos\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.dll
+C:\Users\fiito\source\repos\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.pdb
+C:\Users\fiito\source\repos\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.genruntimeconfig.cache
+C:\Users\fiito\source\repos\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.csprojAssemblyReference.cache
+D:\Files\DotNet Projects\repos\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.exe
+D:\Files\DotNet Projects\repos\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.deps.json
+D:\Files\DotNet Projects\repos\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.runtimeconfig.json
+D:\Files\DotNet Projects\repos\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.runtimeconfig.dev.json
+D:\Files\DotNet Projects\repos\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.dll
+D:\Files\DotNet Projects\repos\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.pdb
+D:\Files\DotNet Projects\repos\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.csproj.AssemblyReference.cache
+D:\Files\DotNet Projects\repos\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\DotNet Projects\repos\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.AssemblyInfoInputs.cache
+D:\Files\DotNet Projects\repos\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.AssemblyInfo.cs
+D:\Files\DotNet Projects\repos\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.csproj.CoreCompileInputs.cache
+D:\Files\DotNet Projects\repos\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.dll
+D:\Files\DotNet Projects\repos\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.pdb
+D:\Files\DotNet Projects\repos\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.genruntimeconfig.cache
