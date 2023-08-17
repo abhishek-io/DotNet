@@ -1,0 +1,18 @@
+
+CREATE DATABASE EmployeeCardsDatabase
+
+
+CREATE TABLE [dbo].[EmployeeCards] (
+    [ID]            INT           IDENTITY (1, 1) NOT NULL,
+    [Name]          VARCHAR (MAX) NULL,
+    [Department]   VARCHAR (MAX) NULL,
+    [Designation]     VARCHAR (MAX) NULL,
+    [Phone] VARCHAR (MAX) NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+INSERT INTO dbo.EmployeeCards(Name,Department,Designation,Phone) VALUES ('','','','');
+INSERT INTO dbo.EmployeeCards(Name,Department,Designation,Phone) VALUES ('','','','');
+INSERT INTO dbo.EmployeeCards(Name,Department,Designation,Phone) VALUES ('','','','');
+INSERT INTO dbo.EmployeeCards(Name,Department,Designation,Phone) VALUES ('','','','');
+INSERT INTO dbo.EmployeeCards(Name,Department,Designation,Phone) VALUES ('','','','');
+

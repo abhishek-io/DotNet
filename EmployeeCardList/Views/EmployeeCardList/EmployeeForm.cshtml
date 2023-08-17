@@ -1,0 +1,100 @@
+﻿@model EmployeeCardList.Models.EmployeeModel
+
+@{
+    ViewBag.Title = "EmployeeForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.StrMsg</h2>
+
+
+@using (Html.BeginForm("ProcessCreate", "EmployeeCardList"))
+{
+    @Html.AntiForgeryToken()
+
+
+    <div class="test">
+        <div class="card">
+            <img class="card-img-top" src="/avatar6.png" alt="Card image" style="width:100%">
+            <div class="container">
+
+
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <h4>
+
+
+                    @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "", placeholder = "Enter Name" } })
+                    @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                </h4>
+                <p>
+
+
+                    @Html.EditorFor(model => model.Department, new { htmlAttributes = new { @class = "", placeholder = "Enter Department" } })
+                    @Html.ValidationMessageFor(model => model.Department, "", new { @class = "text-danger" })
+
+
+                </p>
+                <p>
+
+
+                    @Html.EditorFor(model => model.Designation, new { htmlAttributes = new { @class = "", placeholder = "Enter Designation" } })
+                    @Html.ValidationMessageFor(model => model.Designation, "", new { @class = "text-danger" })
+                </p>
+                <p>
+
+                    @Html.EditorFor(model => model.Phone, new { htmlAttributes = new { @class = "", placeholder = "Enter Phone Number" } })
+                    @Html.ValidationMessageFor(model => model.Phone, "", new { @class = "text-danger" })
+                </p>
+                <input type="hidden" name="Id" value="@Model.Id" />
+
+                <p style="color:red">
+                    <div>
+                        <div>
+                            <input type="submit" value="Save" class="btn btn-default" />
+                        </div>
+                    </div>
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+
+<style>
+    .test {
+        display: inline-block;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        transition: 0.3s;
+        width: 350px;
+        background-color: deepskyblue;
+        margin-bottom: 5px;
+        padding: 10px 5px 5px 5px;
+    }
+
+
+        .card:hover {
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        }
+
+
+    .container {
+        padding: 2px 16px;
+        font-weight: bold;
+    }
+</style>
